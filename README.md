@@ -1,8 +1,10 @@
-# Coffee-Shop-Sales-Analysis---PowerBI-Project
+# Coffee-Shop-Sales-Analysis--- SQL and PowerBI-Project
 
 **1. Overview**
 
-The Coffee Shop Sales Dashboard is an interactive Power BI solution designed to analyze and monitor sales performance across multiple dimensions, including time, product categories, and store locations. The dashboard delivers clear, data-driven insights to support business decision-making in a retail coffee shop environment.
+The Coffee Shop Sales Dashboard is an interactive Power BI solution designed to analyze and monitor sales performance across multiple dimensions, including time, product categories, and store locations.
+
+This project demonstrates an end-to-end data workflow, from data cleaning using SQL to data modeling and visualization in Power BI, delivering actionable insights for business decision-making in a retail coffee shop environment.
 
 **2. Purpose**
 
@@ -15,6 +17,7 @@ This project aims to:
 
 **3. Tech Stack**
 
+- SQL (Data Cleaning, Transformation, Analysis)
 - Power BI (Dashboard Development & Data Visualization)
 - Power Query (Data Cleaning & Transformation - ETL)
 - DAX (Data Analysis Expressions) for calculated measures and KPIs
@@ -63,12 +66,14 @@ Dashboard Design
 - A small group of top-performing products contributes a large share of revenue → ideal for focused marketing and upselling strategies.
 
 **To answer these business questions**
-- When are the peak sales hours?
-- Which product category generates the most revenue?
-- Which performs better: weekdays or weekends?
-- Which store locations generate the highest revenue?
-- What is the overall sales trend during the month?
-- Which products should the business focus on?
-- How can business performance be improved?
+- Calculate total sales for each month
+- Identify Month-over-Month (MoM) growth or decline
+- Compute differences between current and previous month
+- Calculate total number of orders per month
+- Analyze MoM changes in order volume
+- Compare order differences across months
+- Calculate total quantity sold per month
+- Evaluate MoM changes in quantity sold
+- Measure differences between consecutive months
 
 
