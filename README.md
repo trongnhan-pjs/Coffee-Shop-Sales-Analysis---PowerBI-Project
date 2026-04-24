@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales-Analysis---SQL and PowerBI-Project
+# Coffee-Shop-Sales-Analysis---PowerBI-Project
 
 **1. Overview**
 
