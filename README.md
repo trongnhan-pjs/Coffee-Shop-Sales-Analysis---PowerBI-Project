@@ -62,7 +62,7 @@ Dashboard Design
 - Daily revenue remains relatively stable, showing no extreme fluctuations → indicating stable business performance.
 - A small group of top-performing products contributes a large share of revenue → ideal for focused marketing and upselling strategies.
 
-**7. Business Questions**
+**To answer these business questions**
 - When are the peak sales hours?
 - Which product category generates the most revenue?
 - Which performs better: weekdays or weekends?
